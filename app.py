@@ -51,3 +51,5 @@ def predict():
     return jsonify({'predictions': top_classes})
 
 
+if __name__ == '__main__':
+    app.run(debug=True)
