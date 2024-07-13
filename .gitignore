@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+*lib
+*bin
+*__pycache__
